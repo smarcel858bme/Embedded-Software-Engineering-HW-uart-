@@ -76,11 +76,23 @@ autogen/sl_event_handler.o: ../autogen/sl_event_handler.c \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\device_init\inc\sl_device_init_emu.h \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\hardware\board\inc\sl_board_control.h \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\debug\inc\sl_debug_swo.h \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emdrv\gpiointerrupt\inc\gpiointerrupt.h \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_gpio.h \
+ ../autogen/sl_iostream_init_usart_instances.h \
+ ../autogen/sl_component_catalog.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream_uart.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emdrv\dmadrv\inc\dmadrv.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emdrv\common\inc\ecode.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_dma.h \
+ C:\Users\smarc\SimplicityStudio\v5_workspace\BSzF_hazi_feladat\config/dmadrv_config.h \
  ../autogen/sl_simple_button_instances.h \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\button\inc\sl_simple_button.h \
- c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\button\inc\sl_button.h
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\button\inc\sl_button.h \
+ ../autogen/sl_iostream_init_instances.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\hardware\driver\configuration_over_swo\inc\sl_cos.h
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 ../autogen/sl_event_handler.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_chip.h:
@@ -158,8 +170,20 @@ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\device_init\inc\
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\device_init\inc\sl_device_init_emu.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\hardware\board\inc\sl_board_control.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\debug\inc\sl_debug_swo.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emdrv\gpiointerrupt\inc\gpiointerrupt.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_gpio.h:
+../autogen/sl_iostream_init_usart_instances.h:
+../autogen/sl_component_catalog.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream_uart.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\iostream\inc\sl_iostream.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emdrv\dmadrv\inc\dmadrv.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emdrv\common\inc\ecode.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_dma.h:
+C:\Users\smarc\SimplicityStudio\v5_workspace\BSzF_hazi_feladat\config/dmadrv_config.h:
 ../autogen/sl_simple_button_instances.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\button\inc\sl_simple_button.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\driver\button\inc\sl_button.h:
+../autogen/sl_iostream_init_instances.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\hardware\driver\configuration_over_swo\inc\sl_cos.h:

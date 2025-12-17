@@ -1,4 +1,5 @@
 #include <game.h>
+#include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
 #include "segmentlcd.h"
@@ -113,6 +114,7 @@ void game_tick(game_state *state) {
             state->seg[i].d = 0;
             }
         }
+      printf("Hello World!, score: %d\n\r", state->score);
       // Elkezd leesni a banán - felső függőleges szegmens
       for(int i = 0; i < SEGMENT_LCD_NUM_OF_LOWER_CHARS; i++) {
       if(state->seg[i].a == 1) {

@@ -72,7 +72,12 @@ app.o: ../app.c \
  C:\Users\smarc\SimplicityStudio\v5_workspace\BSzF_hazi_feladat\config/emlib_core_debug_config.h \
  c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h \
  C:\Users\smarc\SimplicityStudio\v5_workspace\BSzF_hazi_feladat\autogen/sl_simple_button_instances.h \
- c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\udelay\inc\sl_udelay.h
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\udelay\inc\sl_udelay.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_cmu.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_cmu_compat.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_gpio.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\sli_em_cmu.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_usart.h
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 ../segmentlcd.h:
 ../segmentlcdconfig.h:
@@ -150,3 +155,8 @@ C:\Users\smarc\SimplicityStudio\v5_workspace\BSzF_hazi_feladat\config/emlib_core
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\inc\sl_enum.h:
 C:\Users\smarc\SimplicityStudio\v5_workspace\BSzF_hazi_feladat\autogen/sl_simple_button_instances.h:
 c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\service\udelay\inc\sl_udelay.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_cmu.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_cmu_compat.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_gpio.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\sli_em_cmu.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\emlib\inc\em_usart.h:
