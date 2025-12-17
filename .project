@@ -56,6 +56,14 @@
 			<locationURI>STUDIO_SDK_LOC/platform/common/inc/sl_assert.h</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/common/inc/sl_atomic.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/common/inc/sl_atomic.h</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/common/inc/sl_common.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/common/inc/sl_common.h</locationURI>
@@ -71,11 +79,27 @@
 			<locationURI>STUDIO_SDK_LOC/platform/common/inc/sl_status.h</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/common/inc/sl_string.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/common/inc/sl_string.h</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/common/src/sl_assert.c</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/common/src/sl_assert.c</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/common/src/sl_string.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/common/src/sl_string.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/common/src/sl_syscalls.c</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/common/src/sl_syscalls.c</locationURI>
@@ -126,6 +150,14 @@
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_core_generic.h</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/emlib/inc/em_dma.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_dma.h</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/emlib/inc/em_ebi.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_ebi.h</locationURI>
@@ -181,6 +213,14 @@
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_system_generic.h</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/emlib/inc/em_usart.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_usart.h</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/emlib/inc/em_vcmp.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/inc/em_vcmp.h</locationURI>
@@ -211,6 +251,14 @@
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/src/em_core.c</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/emlib/src/em_dma.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emlib/src/em_dma.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/emlib/src/em_ebi.c</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/src/em_ebi.c</locationURI>
@@ -251,11 +299,32 @@
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/src/em_system.c</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/emlib/src/em_usart.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emlib/src/em_usart.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/emlib/src/em_vcmp.c</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/emlib/src/em_vcmp.c</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/hardware/driver/configuration_over_swo/inc/sl_cos.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/hardware/driver/configuration_over_swo/inc/sl_cos.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/hardware/driver/configuration_over_swo/src/sl_cos.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/hardware/driver/configuration_over_swo/src/sl_cos.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/CMSIS/Core/Include/cmsis_compiler.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/CMSIS/Core/Include/cmsis_compiler.h</locationURI>
@@ -326,11 +395,47 @@
 			<locationURI>STUDIO_SDK_LOC/platform/driver/button/src/sl_simple_button.c</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/driver/debug/inc/sl_debug_swo.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/driver/debug/inc/sl_debug_swo.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/driver/debug/src/sl_debug_swo.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/driver/debug/src/sl_debug_swo.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/emdrv/common/inc/ecode.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/emdrv/common/inc/ecode.h</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/emdrv/dmadrv/inc/dmactrl.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emdrv/dmadrv/inc/dmactrl.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/emdrv/dmadrv/inc/dmadrv.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emdrv/dmadrv/inc/dmadrv.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/emdrv/dmadrv/src/dmactrl.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emdrv/dmadrv/src/dmactrl.c</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/emdrv/dmadrv/src/dmadrv.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/emdrv/dmadrv/src/dmadrv.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/emdrv/gpiointerrupt/inc/gpiointerrupt.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/emdrv/gpiointerrupt/inc/gpiointerrupt.h</locationURI>
@@ -386,6 +491,44 @@
 			<locationURI>STUDIO_SDK_LOC/platform/service/device_init/src/sl_device_init_nvic.c</locationURI>
 		</link>
 		<link>
+<<<<<<< HEAD
+=======
+			<name>gecko_sdk_4.4.6/platform/service/iostream/inc/sl_iostream.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/inc/sl_iostream.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/service/iostream/inc/sl_iostream_uart.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/inc/sl_iostream_uart.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/service/iostream/inc/sl_iostream_usart.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/inc/sl_iostream_usart.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/service/iostream/inc/sli_iostream_uart.h</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/inc/sli_iostream_uart.h</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/service/iostream/src/sl_iostream.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/src/sl_iostream.c</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/service/iostream/src/sl_iostream_uart.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/src/sl_iostream_uart.c</locationURI>
+		</link>
+		<link>
+			<name>gecko_sdk_4.4.6/platform/service/iostream/src/sl_iostream_usart.c</name>
+			<type>1</type>
+			<locationURI>STUDIO_SDK_LOC/platform/service/iostream/src/sl_iostream_usart.c</locationURI>
+		</link>
+		<link>
+>>>>>>> uart_support
 			<name>gecko_sdk_4.4.6/platform/service/system/inc/sl_system_init.h</name>
 			<type>1</type>
 			<locationURI>STUDIO_SDK_LOC/platform/service/system/inc/sl_system_init.h</locationURI>

@@ -8,6 +8,12 @@
     <file name="sl_device_init_hfxo_config.h" generated="true" linked="false"/>
     <file name="sl_simple_button_config.h" generated="true" linked="false"/>
     <file name="emlib_core_debug_config.h" generated="true" linked="false"/>
+<<<<<<< HEAD
+=======
+    <file name="sl_iostream_usart_UART0_config.h" generated="true" linked="false"/>
+    <file name="dmadrv_config.h" generated="true" linked="false"/>
+    <file name="sl_debug_swo_config.h" generated="true" linked="false"/>
+>>>>>>> uart_support
   </folder>
   <includePath uri="studio:/project/config"/>
 </project>

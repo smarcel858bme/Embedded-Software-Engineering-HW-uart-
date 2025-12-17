@@ -8,8 +8,17 @@
 #include "sl_device_init_clocks.h"
 #include "sl_device_init_emu.h"
 #include "sl_board_control.h"
+<<<<<<< HEAD
 #include "gpiointerrupt.h"
 #include "sl_simple_button_instances.h"
+=======
+#include "sl_debug_swo.h"
+#include "gpiointerrupt.h"
+#include "sl_iostream_init_usart_instances.h"
+#include "sl_simple_button_instances.h"
+#include "sl_iostream_init_instances.h"
+#include "sl_cos.h"
+>>>>>>> uart_support
 
 void sl_platform_init(void)
 {
@@ -25,13 +34,24 @@ void sl_platform_init(void)
 
 void sl_driver_init(void)
 {
+<<<<<<< HEAD
   GPIOINT_Init();
   sl_simple_button_init_instances();
+=======
+  sl_debug_swo_init();
+  GPIOINT_Init();
+  sl_simple_button_init_instances();
+  sl_cos_send_config();
+>>>>>>> uart_support
 }
 
 void sl_service_init(void)
 {
   sl_board_configure_vcom();
+<<<<<<< HEAD
+=======
+  sl_iostream_init_instances();
+>>>>>>> uart_support
 }
 
 void sl_stack_init(void)
@@ -58,3 +78,11 @@ void sl_internal_app_process_action(void)
 {
 }
 
+<<<<<<< HEAD
+=======
+void sl_iostream_init_instances(void)
+{
+  sl_iostream_usart_init_instances();
+}
+
+>>>>>>> uart_support

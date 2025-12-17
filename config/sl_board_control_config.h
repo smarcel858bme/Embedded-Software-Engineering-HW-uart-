@@ -35,7 +35,11 @@
 
 // <q SL_BOARD_ENABLE_VCOM> Enable Virtual COM UART
 // <i> Default: 0
+<<<<<<< HEAD
 #define SL_BOARD_ENABLE_VCOM                    0
+=======
+#define SL_BOARD_ENABLE_VCOM                    1
+>>>>>>> uart_support
 
 // <<< end of configuration section >>>
 

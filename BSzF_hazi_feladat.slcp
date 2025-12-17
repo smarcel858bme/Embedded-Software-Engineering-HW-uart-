@@ -35,6 +35,11 @@ component:
 - {id: emlib_lesense}
 - {id: emlib_rtc}
 - {id: emlib_vcmp}
+<<<<<<< HEAD
+=======
+- instance: [UART0]
+  id: iostream_usart
+>>>>>>> uart_support
 - instance: [btn1]
   id: simple_button
 - {id: sl_system}

@@ -1,4 +1,5 @@
 gecko_sdk_4.4.6/platform/common/src/sl_syscalls.o: \
+<<<<<<< HEAD
  C:/Users/dorak/SimplicityStudio/SDKs/gecko_sdk/platform/common/src/sl_syscalls.c \
  c:\users\dorak\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h \
  c:\users\dorak\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_compiler.h \
@@ -6,3 +7,12 @@ gecko_sdk_4.4.6/platform/common/src/sl_syscalls.o: \
 c:\users\dorak\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\dorak\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_compiler.h:
 c:\users\dorak\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_gcc.h:
+=======
+ C:/Users/smarc/SimplicityStudio/SDKs/gecko_sdk/platform/common/src/sl_syscalls.c \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_compiler.h \
+ c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_gcc.h
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\common\toolchain\inc\sl_gcc_preinclude.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_compiler.h:
+c:\users\smarc\simplicitystudio\sdks\gecko_sdk\platform\cmsis\core\include\cmsis_gcc.h:
+>>>>>>> uart_support
